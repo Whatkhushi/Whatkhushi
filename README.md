@@ -1,18 +1,21 @@
-<h1 align="center">Hi 👋, I'm Khushi</h1>
-<!-- <h3 align="center">A passionate Full-Stack Developer | Frontend Enthusiast | Hackathon Builder</h3> -->
+<h1 align="center"> 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> 
+  Hey there, I'm <span style="color:#F7DF1E;">Khushi</span> 👩‍💻
+</h1>
 
 
 ---
 
 ### 👩‍💻 About Me  
-- 🔭 Currently working on **React.js projects.**  
-- 🌱 Exploring **Machine Learning & AI.**  
-- 👯 Open to collaborate on **open-source projects & hackathon ideas.**  
-- 💬 Ask me about: **frontend, full-stack dev, or hackathons.**  
-- ⚡ Fun fact: *I first picked up coding to make something cool for myself — and now it’s what I want to keep building my future around.*
+- 🔭 Currently working on **React.js projects**  
+- 🌱 Exploring **Machine Learning & AI**  
+- 👯 Open to collaborate on **open-source projects & hackathon ideas**  
+- 💬 Ask me about: **frontend, full-stack dev, or hackathons**  
+- ⚡ Fun fact: I first picked up coding to make something cool for myself — and now it’s what I want to keep building my future around.  
+
 ---
 
-### 🛠️ Skills  
+### 🛠️ Tech Stack  
 
 **Languages:**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
@@ -48,25 +51,27 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  
 
-
-
 ---
 
-### 🌐 Connect with Me  
-<p align="left">
-<a href="https://www.linkedin.com/in/khushi-sharma-621013285/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<!-- <a href="mailto:777khushi.k@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" />
-</a> -->
+### 📫 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/khushi-sharma-621013285/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:777khushi.k@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whatkhushi&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatkhushi&layout=compact&theme=radical" alt="languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whatkhushi&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whatkhushi&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatkhushi&layout=compact&theme=radical" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whatkhushi&theme=radical" height="160" />
 </p>
