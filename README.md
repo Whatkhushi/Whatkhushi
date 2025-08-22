@@ -7,9 +7,6 @@
 </div>
 
 
-
----
-
 ### 👩‍💻 About Me  
 - 🔭 Currently working on **React.js projects.**  
 - 🌱 Exploring **Machine Learning & AI.**  
