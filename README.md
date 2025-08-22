@@ -7,10 +7,10 @@
 ---
 
 ### 👩‍💻 About Me  
-- 🔭 Currently working on **React.js projects**  
-- 🌱 Exploring **Machine Learning & AI**  
-- 👯 Open to collaborate on **open-source projects & hackathon ideas**  
-- 💬 Ask me about: **frontend, full-stack dev, or hackathons**  
+- 🔭 Currently working on **React.js projects.**  
+- 🌱 Exploring **Machine Learning & AI.**  
+- 👯 Open to collaborate on **open-source projects & hackathon ideas.**  
+- 💬 Ask me about: **frontend, full-stack dev, or hackathons.**  
 - ⚡ Fun fact: I first picked up coding to make something cool for myself — and now it’s what I want to keep building my future around.  
 
 ---
