@@ -1,7 +1,10 @@
 <h1 align="center"> 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> 
-  Hey there, I'm <span style="color:#F7DF1E;">Khushi</span> 👩‍💻
+  👋 Hey there, I'm Khushi 👩‍💻
 </h1>
+
+<p align="center">
+  <b><i>Welcome to my GitHub!</i></b>
+</p>
 
 
 ---
