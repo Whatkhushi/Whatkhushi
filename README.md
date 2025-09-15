@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=fc8a60&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+I am+Khushi;Welcome+to+my+GitHub!" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=fc8a60&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+I'm+Khushi;Welcome+to+my+GitHub!" alt="Typing SVG" />
     </a>
   </h1>
 </div>
